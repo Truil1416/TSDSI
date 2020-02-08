@@ -1,0 +1,125 @@
+1.
+
+MAPA CONCEPTUAL
+
+"El mapa conceptual es una técnica usada normalmente para los estudiantes, que se usa para dar una sinopsis de un tema en concreto."
+
+Técnica usualmente usada por estudiantes usada para resumir un resumen o esquema de un concepto adquirido o tema.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+MAPA DE CONOCIMIENTO
+
+"Es una Guía o Directorio Estructurado que describe las diversas categorías de conocimiento especializado que existen en la Organización, indicando:
+
+- Los conceptos relevantes de conocimiento
+- Su relación con los procesos, estrategias y/o redes organizacionales
+- Una serie de parámetros de interés para su uso como ubicación, soporte, relevancia, etc…
+- El modo en que circula el conocimiento por la organización (rutas de conocimiento)
+
+El mapa de conocimiento es una herramienta básica para el diseño y desarrollo del programa de Gestión del Conocimiento en una Organización. Identifica dónde se encuentra el conocimiento y sus características pero no lo contiene (Informa sobre el conocimiento). Puede centrarse en un tema (monotemático) o aportar una visión más global (multitemático) y debe estar pensado en los usuarios que lo van a utilizar."
+
+Directorio en el que se organiza el conocimiento y la relacion entre conocimientos de una empresa que la afectan.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+PORTAFOLIO ELECTRÓNICO
+
+"El portafolio es una carpeta de presentación que documenta y evidencia los trabajos y los logros de una persona, además de demostrar creatividad y profesionalismo. Un portafolios electrónico es una colección de diversos materiales digitalizados con un propósito, este puede ser académico, profesional o personal."
+
+Repertorio de datos personales adecuados para un CV, o demostrar los conocimientos y abilidades, que posee una persona y que estan recogidos virtualmente.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+2.
+
+Mapas Conceptuales
+
+Ventajas: 
+-Ayuda a prestar atencion a la relacion entre conceptro previniendo memorizar definiciones sin entender la relacion que conlleva un conocimiento con el resto.
+-Permite organizar ideas o conceptos para asi asimilarlos mejor a la hora de estudiar.
+-Muestra de forma rapida la relación entre conceptos, haciendo del mismo un facil elemento de repaso de palabras clabes, conceptos y sus relaciones, pudiendo organizarlos de forma jerárquica
+-Por lo general se trata de un trabajo no muy costoso y que no conlleva ningun riesgo.
+
+
+Inconvenientes:
+-Puede ser aburrido o tedioso.
+-Hay que escribir.
+-Hay que pensar, no solo es seguir un guion y resumir (aunque por ello mismo es bueno para aprender).
+-Necesita su tiempo, y podria llevar varios intentos para dejarlo visualmente adecuado, por lo que una persona nongracil en el diseño visual, podria simplemente perder el tiempo, o almenos hasta que lleve tiempo practicando.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Mapas de Conocimiento
+
+Ventajas:
+-Poseer un directorio con todo el conocimiento relevante de la empresa ayuda a tener una vista completa del alcance y complejidad de la empresa.
+-"Se usa como una herramienta visual de diseño y apoyo al sistema de gestión del conocimiento vinculada a la definición de la estrategia de la Organización y al desarrollo de su Capital Intelectual."
+-Podria facilitar la gestión de la seguridad.
+
+Inconvenientes:
+-Un atacante o competidor podria hacer uso de esta información con fines de herir a la empresa si este conocimiento llega a sus manos.
+-Al ser una conjuto en si subceptible a convertirse en una vulneravilidad en manos enemigas, se ha de proteger debidamente, conyevando al gasto para ello.
+-En un trabajo para el cual se ha de contratar a una o varias personas, durante un periodo de tiempo variable con la profundidad del analisis realizado de la empresa, donde estas personas tendran acceso a información y conocimiento sensible (en caso de un analisis profundo), ademas de  que habra que pagarles por el trabajo realizado.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Portafolio Elecrónico
+
+Ventajas:
+-Recoge todos los elementos que una persona debe presentar a la hora de buscar trabajo, facilitando la tarea de generar un CV.
+-A la hora de actualizar información no requieres estar en tu casa o tener tu ordenador personal.
+
+Inconvenientes:
+-Si la empresa que suministra el servicio es atacada tus datos podrian verse comprometidos, por ende no recomendaria añadir datos de caracter sensible.
+-Si alguien sa hace con tus datos podria llevar a una falsificación de estos, o suplantación de identidad.
+-Se ha de llevar al dia para que sea útil.
+-Puedes perder tu cuenta o el servicio cesar.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+3.
+
+MAPAS
+
+Herramientas encontradas:
+-WiseMapping
+-Cmap
+-XMind
+
+PORTAFOLIO ELECTRÓNICO
+
+Herramientas encontradas:
+-Mahara
+-Seesaw
+-KARUTA
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+4.
+
+Criterio de selección:
+
+WiseMapping: He optado por este servicio ya que permite su uso online, cosa que nos sera de ayuda y nos sera comodo, ademas de ser intuitivo, como podemos comprobar en su prueba sin necesidad de loguear.
+	Aunque no encuentro la opción paar agregar imagenes si la hay*
+
+KARUTA: Seesaw no parece la opción a simple vista, mientras que mahara es complejo y poco intuitivo, mientras que con Karuta he encontrado relativamente rápido las opciones que busco para trabajar.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Enlaces consultados:
+
+https://es.wikipedia.org/wiki/Mapa_conceptual
+http://sugestion.quned.es/conocimiento/ficha/def/conocimiento
+http://online.nuc.edu/documentos/tutoriales-estudiantes/eportfolio/Presentaci%C3%B3n-Qu%C3%A9-es-un-portafolios-electr%C3%B3nicos.pdf
+https://es.wikipedia.org/wiki/Portafolio_digital
+
+https://cmap.ihmc.us/
+http://www.wisemapping.com/
+https://www.xmind.net/
+
+https://web.seesaw.me/
+https://mahara.org/user/ximenacastano/eportafolio-modelo
+http://karutaproject.org/
+
+http://eportfolium.com/karuta
